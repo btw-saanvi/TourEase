@@ -220,6 +220,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Travel enthusiasts who provide valuable feedback
 
 ---
+
+## Code of Conduct
+Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on expected behavior and reporting guidelines.
+
 ## 👩‍💻 Author
 
 **Suhani**

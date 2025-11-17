@@ -220,6 +220,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Travel enthusiasts who provide valuable feedback
 
 ---
+## Setup
+Please follow [SETUP.md](SETUP.md) to set up the project locally.
+
 ## 👩‍💻 Author
 
 **Suhani**

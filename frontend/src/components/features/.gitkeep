@@ -1,0 +1,11 @@
+# Feature Components
+
+This folder contains feature-specific components.
+
+## Examples:
+- `TourCard.jsx` - Tour listing card
+- `BookingForm.jsx` - Booking form
+- `DestinationCard.jsx` - Destination card
+- `ReviewCard.jsx` - Review/testimonial card
+- `SearchBar.jsx` - Tour search component
+- `FilterPanel.jsx` - Filter options panel

@@ -1,0 +1,12 @@
+# Layout Components
+
+This folder contains layout-related components.
+
+## Examples:
+- `Header.jsx` - Site header
+- `Footer.jsx` - Site footer
+- `Sidebar.jsx` - Sidebar navigation
+- `Layout.jsx` - Main layout wrapper
+
+## Note:
+Navigation.jsx should be moved here as it's a layout component.

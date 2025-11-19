@@ -1,0 +1,11 @@
+# Common Components
+
+This folder contains reusable UI components used across the application.
+
+## Examples:
+- `Button.jsx` - Reusable button component
+- `Card.jsx` - Card component
+- `Modal.jsx` - Modal dialog
+- `Input.jsx` - Form input component
+- `Loader.jsx` - Loading spinner
+- `Alert.jsx` - Alert/notification component

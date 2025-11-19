@@ -1,0 +1,9 @@
+# Custom React Hooks
+
+This folder contains custom React hooks for reusable logic.
+
+## Examples:
+- `useAuth.js` - Authentication logic
+- `useFetch.js` - Data fetching logic
+- `useLocalStorage.js` - Local storage management
+- `useDebounce.js` - Debouncing logic

@@ -1,0 +1,9 @@
+# Context Providers
+
+This folder contains React Context providers for global state management.
+
+## Examples:
+- `AuthContext.jsx` - Authentication state
+- `ThemeContext.jsx` - Theme preferences
+- `BookingContext.jsx` - Booking state
+- `UserContext.jsx` - User information

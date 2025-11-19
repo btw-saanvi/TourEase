@@ -1,0 +1,9 @@
+# Services
+
+This folder contains API calls and external service integrations.
+
+## Examples:
+- `api.js` - Base API client configuration
+- `tourService.js` - Tour-related API calls
+- `authService.js` - Authentication API calls
+- `bookingService.js` - Booking-related API calls

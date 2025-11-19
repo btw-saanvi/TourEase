@@ -1,0 +1,9 @@
+# Utility Functions
+
+This folder contains helper functions and utilities.
+
+## Examples:
+- `formatDate.js` - Date formatting utilities
+- `validators.js` - Form validation functions
+- `constants.js` - Application constants
+- `helpers.js` - General helper functions

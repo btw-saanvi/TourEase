@@ -13,7 +13,7 @@ import Home2 from './pages/Home2';
 import About from './pages/About';
 import Destinations from './pages/Destinations';
 import Contact from './pages/Contact';
-import Signup from './pages/Signup';
+import Signup from './pages/signup';
 import Login from './pages/Login';
 
 function ProtectedRoute({ children }) {
